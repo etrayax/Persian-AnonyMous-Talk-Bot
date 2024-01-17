@@ -14,12 +14,24 @@
 
 <h1>💡 How to use commands : </h1>
 <ul>
+  
   <li>
-    <h3><code>/link</code></h3>
+    <code>/link</code>
     <p>To get your unique link</p>
   </li>
+  
   <li>
-    <h3>link</h3>
-    <p>To get your unique link</p>
+    <code>/status</code>
+    <p>To see your status</p>
+  </li>
+  
+  <li>
+    <code>/generate</code>
+    <p>To generate new link</p>
+  </li>
+  
+  <li>
+    <code>/settings</code>
+    <p>To chnage default settings</p>
   </li>
 </ul>
