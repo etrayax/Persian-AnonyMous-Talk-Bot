@@ -52,4 +52,4 @@
 </ul>
 
 <h1>💡 Setup :</h1>
-<p>open <code>variables.py</code> file and replace the default value to correct value.</p>
+<p>open <code>variables.py</code> file and replace the default value with correct value.</p>
