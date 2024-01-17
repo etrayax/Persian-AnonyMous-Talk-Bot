@@ -1,6 +1,6 @@
 <h1>Persian Anonymous Chat Bot</h1>
 
-<p>This bot was created to chat anonymously on Telegram platform. That's mean you can chat easily on Telegram platform anonymously just with a link that created for yours.</p>
+<p>This bot was created to chat anonymously on Telegram platform. That's mean you can chat easily on Telegram platform anonymously just with a link that created for yours. In addition all of this you can active nsfw system to protect you from bad words.</p>
 
 <h1>✔️ Features : </h1>
 <ul>
@@ -32,6 +32,21 @@
   
   <li>
     <code>/settings</code>
-    <p>To chnage default settings</p>
+    <p>To change default settings</p>
+  </li>
+
+  <li>
+    <code>/sendall</code>
+    <p>To send a message to all users</p>
+  </li>
+
+  <li>
+    <code>/send</code>
+    <p>To send a message to specific user</p>
+  </li>
+
+  <li>
+    <code>/members</code>
+    <p>To see all members that start bot</p>
   </li>
 </ul>
