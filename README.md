@@ -5,12 +5,21 @@
 <h1>✔️ Features : </h1>
 <ul>
   <li>NSFW System</li>
-  <li>User can block a member</li>
-  <li>Admin can block a member (member can't use bot)</li>
-  <li>Add a admin to list of admins</li>
-  <li>Find a member out information (only admin)</li>
-  <li>To talk to admin directly</li>
-  <li>Send message to all members (only admin)</li>
-  <li>User can Regenrate your link</li>
-  <li>Settings panel for each user</li>
+  <li>Delete/Reply a message</li>
+  <li>Stop bot from reciving any messages</li>
+  <li>Block/Unblock a user</li>
+  <li>and etc.</li>
+</ul>
+
+
+<h1>💡 How to use commands : </h1>
+<ul>
+  <li>
+    <h3><code>/link</code></h3>
+    <p>To get your unique link</p>
+  </li>
+  <li>
+    <h3>link</h3>
+    <p>To get your unique link</p>
+  </li>
 </ul>
