@@ -47,6 +47,9 @@
 
   <li>
     <code>/members</code>
-    <p>To see all members that start bot</p>
+    <p>To see all members that have started bot</p>
   </li>
 </ul>
+
+<h1>💡 Setup :</h1>
+<p>open variables file.</p>
