@@ -12,7 +12,7 @@
 </ul>
 
 
-<h1>💡 How to use commands : </h1>
+<h1>💡 help of commands : </h1>
 <ul>
   
   <li>
